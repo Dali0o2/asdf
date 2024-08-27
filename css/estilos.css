@@ -1,0 +1,43 @@
+
+.padre{
+    width: 1000px;
+    height: 1000px;
+    background: none;
+    background-color: blue;
+}
+.hijo1{
+    margin: 40px;
+    background-color: black;
+    width: 900px;
+    height: 880px;
+}
+.nieto1{
+    margin: 40px;
+    background-color: red;
+    width: 800px;
+    height: 780px;
+}
+.bisnieto{
+    margin: 40px;
+    background-color: skyblue;
+    width: 700px;
+    height: 680px;
+}
+.trisnieto{
+    margin: 40px;
+    background-color: white;
+    width: 600px;
+    height: 580px;
+}
+.cuanieto{
+    margin: 40px;
+    background-color: red;
+    width: 500px;
+    height: 480px;
+}
+.quinieto{
+    margin: 40px;
+    background-color: white;
+    width: 400px;
+    height: 380px;
+}
